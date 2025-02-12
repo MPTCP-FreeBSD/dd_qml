@@ -1,0 +1,5 @@
+conda create -n qllmenv python=3.10.16
+pip install tensorcircuit
+pip install qibo
+pip install qiskit
+pip install cirq
